@@ -1,4 +1,4 @@
-# MIHAI Cosmin - Constantin
+# Contact info
 cosmin.constantin.mihai@outlook.com
 ### Ph.D at University Politehnica of Bucharest
 
