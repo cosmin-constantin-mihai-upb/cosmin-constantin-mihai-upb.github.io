@@ -1,8 +1,10 @@
 # MIHAI Cosmin - Constantin
 cosmin.constantin.mihai@outlook.com
 ### Ph.D at University Politehnica of Bucharest
+
 # Research papers
-[## Using graphics processing units and openGL in adaptive-robust real time control](https://ieeexplore.ieee.org/document/9223140)
+
+## Using graphics processing units and openGL in adaptive-robust real time control
 ### ECAI 2020
 #### Co Authors: Ciprian Lupu, Andrei-Alexandru Vulpe
 
