@@ -15,6 +15,10 @@ cosmin.constantin.mihai@outlook.com
 #### Co Authors: Ciprian Lupu, Dan Secuianu, Andrei-Alexandru Vulpe
 <p> Describes the implementation of high performance process simulator clusters based on modern graphical processing unit architectures.</p>
 
+# Real Time & Power Efficient Adaptive - Robust Control
+### Journal of Physics Conference 2017
+#### Co Authors: Lavinius Ioan Gliga, Ciprian Lupu, Dumitru Popescu
+<p> A design procedure for a control system suited for dynamic variable processes is presented in this paper. The proposed adaptive - robust control strategy considers both adaptive control advantages and robust control benefits.</p>
 
 ## Adaptive - Robust control a computational efficient real time simulation
 ### EMES 2015
