@@ -2,6 +2,12 @@
 cosmin.constantin.mihai@outlook.com
 ### Ph.D at University Politehnica of Bucharest
 
+# Fields of research
+
+- Real time systems
+- Adaptive - robust control
+- Compute shaders
+
 # Research papers
 
 ## Using graphics processing units and openGL in adaptive-robust real time control
