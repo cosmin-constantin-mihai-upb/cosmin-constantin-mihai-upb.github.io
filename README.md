@@ -7,6 +7,7 @@ cosmin.constantin.mihai@outlook.com
 - Real time systems
 - Adaptive - robust control
 - Compute shaders
+- Telemedicine
 
 # Research papers
 
